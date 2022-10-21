@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @w3lchia
 - 👀 I’m interested in ...
-- countryhumans and quantum mechanics
+  - countryhumans and quantum mechanics
 - 🌱 I’m currently learning ...
-- html, css, scratch, bootstrap possibly javascript and python?
+  - html, css, scratch, bootstrap possibly javascript and python?
 - 💞️ I’m looking to collaborate on ...
-- my projects!
+  - my projects!
 - 📫 How to reach me ...
--  https://clatto.neocities.org/
+  -  https://clatto.neocities.org/
 
 <!---
 w3lchia/w3lchia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
